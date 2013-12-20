@@ -1,0 +1,91 @@
+0: 0.049*please + 0.046*obsolete + 0.036*wikipedia + 0.034*findable + 0.030*delete + 0.028*consult + 0.025*documentation + 0.023*revision + 0.018*lists + 0.017*stages
+1: 0.011*airports + 0.011*km + 0.011*dominican + 0.010*paved + 0.010*runways + 0.010*unpaved + 0.009*symptoms + 0.008*cortex + 0.008*brain + 0.006*anxiety
+2: 0.020*cameroon + 0.016*burkina + 0.015*faso + 0.011*est + 0.008*ethnic + 0.006*tfr + 0.006*imr + 0.006*aids + 0.006*hiv + 0.006*cdr
+3: 0.006*boat + 0.006*ship + 0.005*catalonia + 0.004*brussels + 0.004*virus + 0.004*ships + 0.004*poland + 0.004*boats + 0.004*railway + 0.003*lithuania
+4: 0.009*arabic + 0.009*ibn + 0.008*abd + 0.006*rahman + 0.005*dsm + 0.005*umayyad + 0.004*arch + 0.004*bug + 0.003*arab + 0.003*cervical
+5: 0.009*piano + 0.008*artemis + 0.007*jazz + 0.007*bass + 0.006*catherine + 0.005*borough + 0.005*orchestra + 0.005*compositions + 0.005*concerto + 0.005*musicians
+6: 0.007*axiom + 0.007*shah + 0.006*cantor + 0.006*fermat + 0.005*ivory + 0.005*byzantine + 0.005*constantinople + 0.004*atoll + 0.004*column + 0.004*istanbul
+7: 0.009*antibiotics + 0.008*bacterial + 0.008*saxon + 0.008*bede + 0.006*bacteria + 0.006*chronicle + 0.005*antibiotic + 0.005*anglo + 0.005*kings + 0.005*wessex
+8: 0.011*constellations + 0.009*constellation + 0.008*hued + 0.006*caligula + 0.006*tacitus + 0.006*jupiter + 0.006*tiberius + 0.005*nero + 0.005*germanic + 0.005*commonwealth
+9: 0.002*berlin + 0.002*literary + 0.002*billion + 0.002*communication + 0.002*gdp + 0.002*sector + 0.002*medieval + 0.002*computers + 0.002*behavior + 0.002*doctor
+10: 0.014*commodore + 0.011*cell + 0.010*disk + 0.009*cipher + 0.007*baltic + 0.006*membrane + 0.006*cyril + 0.006*encryption + 0.006*drive + 0.005*ciphers
+11: 0.013*burundi + 0.004*atlas + 0.004*chocolate + 0.004*shannon + 0.004*aragonese + 0.004*holly + 0.003*brandenburg + 0.003*evangelist + 0.003*ching + 0.003*alps
+12: 0.009*cayman + 0.006*rio + 0.006*hop + 0.006*rap + 0.006*seats + 0.005*jeremiah + 0.005*hip + 0.005*scotland + 0.005*election + 0.005*saxons
+13: 0.008*windows + 0.007*microsoft + 0.005*subfamily + 0.005*diving + 0.005*unix + 0.005*linux + 0.004*javascript + 0.004*algeria + 0.004*discharge + 0.004*user
+14: 0.016*apple + 0.005*server + 0.005*alessandro + 0.005*bethlehem + 0.005*client + 0.004*bengal + 0.004*aeneas + 0.004*divination + 0.004*ravens + 0.004*abduction
+
+
+0: 0.057*please + 0.054*obsolete + 0.050*wikipedia + 0.039*findable + 0.035*delete + 0.032*consult + 0.028*documentation + 0.027*revision + 0.021*lists + 0.020*stages
+1: 0.016*dominican + 0.016*paved + 0.015*runways + 0.014*km + 0.014*unpaved + 0.014*airports + 0.008*est + 0.007*symptoms + 0.007*cortex + 0.007*anxiety
+2: 0.028*cameroon + 0.022*burkina + 0.019*faso + 0.009*tfr + 0.008*imr + 0.008*nigeria + 0.008*cdr + 0.008*aids + 0.007*hiv + 0.006*nc
+3: 0.008*brussels + 0.006*dock + 0.006*catalonia + 0.005*poland + 0.005*boat + 0.004*lithuania + 0.004*bruno + 0.004*docks + 0.004*archangel + 0.004*prussians
+4: 0.013*abd + 0.013*ibn + 0.010*rahman + 0.007*umayyad + 0.005*andalus + 0.005*bug + 0.004*cholera + 0.004*arch + 0.004*cervical + 0.004*dsm
+5: 0.016*bass + 0.012*artemis + 0.012*piano + 0.010*jazz + 0.010*composers + 0.008*cello + 0.008*sonata + 0.007*concerto + 0.007*athena + 0.007*clarinet
+6: 0.012*byzantine + 0.009*shah + 0.009*ivory + 0.008*byzantium + 0.007*fermat + 0.006*constantinople + 0.006*anatolian + 0.006*atoll + 0.005*crusade + 0.005*anatolia
+7: 0.018*saxon + 0.013*bede + 0.012*antibiotics + 0.012*chronicle + 0.010*anglo + 0.008*kings + 0.008*coronary + 0.008*wessex + 0.007*penicillin + 0.007*mercia
+8: 0.017*constellations + 0.011*hued + 0.010*tacitus + 0.009*nero + 0.009*caligula + 0.008*tiberius + 0.008*gaius + 0.006*augustus + 0.005*germanic + 0.004*fabric
+9: 0.002*computers + 0.002*le + 0.002*berlin + 0.002*democratic + 0.002*communication + 0.002*medieval + 0.002*billion + 0.002*literary + 0.002*doctor + 0.002*classification
+10: 0.021*commodore + 0.014*cipher + 0.011*disk + 0.010*encryption + 0.009*cyril + 0.008*baltic + 0.008*ciphers + 0.008*dos + 0.007*cytoplasm + 0.007*cadillac
+11: 0.021*burundi + 0.004*atlas + 0.004*aragonese + 0.004*chocolate + 0.004*shannon + 0.004*holly + 0.003*evangelist + 0.003*adaptive + 0.003*dominica + 0.002*diacritic
+12: 0.025*cayman + 0.011*epirus + 0.011*hop + 0.010*hip + 0.009*rap + 0.008*macedon + 0.007*constituency + 0.007*numerals + 0.006*saxons + 0.006*hume
+13: 0.009*subfamily + 0.008*windows + 0.007*diving + 0.006*linux + 0.004*discharge + 0.004*caltech + 0.004*sullivan + 0.004*divers + 0.004*dive + 0.004*javascript
+14: 0.020*apple + 0.007*server + 0.007*bethlehem + 0.006*client + 0.005*bengal + 0.005*servers + 0.005*alessandro + 0.005*ravens + 0.004*aeneas + 0.004*barcelona
+
+
+
+
+
+0: 0.008*asp + 0.008*psalms + 0.007*rgb + 0.007*wives + 0.006*sarcophagus + 0.006*aztec + 0.005*knuth + 0.005*psychic + 0.005*archangel + 0.004*ethernet
+1: 0.019*christ + 0.016*jesus + 0.013*bible + 0.013*churches + 0.012*testament + 0.011*botswana + 0.011*epistle + 0.009*doctrine + 0.008*communion + 0.008*canon
+2: 0.011*rum + 0.006*bose + 0.005*dynamical + 0.004*applet + 0.004*borealis + 0.003*rape + 0.002*concession + 0.002*estonia + 0.001*packet + 0.001*estonian
+3: 0.042*px + 0.032*alfonso + 0.022*afonso + 0.019*brunei + 0.008*aragon + 0.008*blitz + 0.007*elliptic + 0.005*conjugation + 0.004*asturias + 0.004*tau
+4: 0.026*cameroon + 0.025*chad + 0.021*ecuador + 0.015*census + 0.011*median + 0.010*km² + 0.008*khmer + 0.008*households + 0.007*km + 0.007*deaths
+5: 0.019*azerbaijan + 0.013*baku + 0.012*samoa + 0.010*teutonic + 0.008*barbados + 0.007*cellulose + 0.006*metadata + 0.005*azerbaijani + 0.005*marker + 0.004*asa
+6: 0.008*benin + 0.004*thornton + 0.004*parker + 0.004*leroy + 0.004*steiner + 0.003*riga + 0.003*fish + 0.003*prefecture + 0.002*bishopric + 0.002*dog
+7: 0.017*acid + 0.010*compounds + 0.010*hydrogen + 0.010*chemistry + 0.010*reaction + 0.009*oxygen + 0.009*atoms + 0.007*reactions + 0.006*atomic + 0.006*nuclear
+8: 0.008*phylogeny + 0.008*cairns + 0.006*crosby + 0.006*circumscribed + 0.005*moody + 0.005*bonaparte + 0.005*alexandra + 0.004*skinner + 0.004*democrat + 0.003*stealth
+9: 0.005*scotland + 0.004*football + 0.004*buildings + 0.003*naval + 0.003*americans + 0.003*scottish + 0.003*secretary + 0.003*institutions + 0.003*conservative + 0.003*genera
+10: 0.022*vowel + 0.020*vowels + 0.014*consonant + 0.011*consonants + 0.007*verbs + 0.006*suffixes + 0.006*sardinia + 0.006*lexical + 0.005*carboxylic + 0.005*ipa
+11: 0.010*lions + 0.007*atm + 0.006*adventist + 0.006*jerseys + 0.005*cowboys + 0.005*nfl + 0.004*euthanasia + 0.004*osiris + 0.004*erroneously + 0.004*mustard
+12: 0.018*blues + 0.009*algol + 0.005*hardcore + 0.004*felix + 0.004*universities + 0.004*reggae + 0.004*cunningham + 0.003*tattoo + 0.003*curb + 0.002*bolts
+13: 0.004*ireland + 0.003*temple + 0.003*berlin + 0.003*convention + 0.003*governor + 0.003*democratic + 0.003*eu + 0.003*liberal + 0.003*embassy + 0.003*camp
+14: 0.005*poem + 0.004*mythology + 0.004*poetry + 0.004*birds + 0.004*dog + 0.004*poems + 0.004*stories + 0.003*cayman + 0.003*aristotle + 0.003*goddess
+
+
+
+2013-12-18 19:55:37,868 : INFO : topic #0: 0.008*asp + 0.008*psalms + 0.007*rgb + 0.007*wives + 0.006*sarcophagus + 0.006*aztec + 0.005*knuth + 0.005*psychic + 0.005*archangel + 0.004*ethernet
+2013-12-18 19:55:37,883 : INFO : topic #1: 0.019*christ + 0.017*jesus + 0.013*bible + 0.013*churches + 0.012*testament + 0.011*botswana + 0.011*epistle + 0.009*doctrine + 0.008*communion + 0.008*canon
+2013-12-18 19:55:37,897 : INFO : topic #2: 0.011*rum + 0.006*bose + 0.005*dynamical + 0.004*applet + 0.004*borealis + 0.003*rape + 0.002*concession + 0.002*estonia + 0.001*packet + 0.001*estonian
+2013-12-18 19:55:37,912 : INFO : topic #3: 0.044*px + 0.032*alfonso + 0.022*afonso + 0.020*brunei + 0.008*aragon + 0.008*blitz + 0.007*elliptic + 0.005*conjugation + 0.004*asturias + 0.004*tau
+2013-12-18 19:55:37,926 : INFO : topic #4: 0.026*cameroon + 0.025*chad + 0.021*ecuador + 0.015*census + 0.011*median + 0.010*km² + 0.008*khmer + 0.008*households + 0.007*deaths + 0.007*km
+2013-12-18 19:55:37,940 : INFO : topic #5: 0.019*azerbaijan + 0.014*baku + 0.012*samoa + 0.010*teutonic + 0.008*barbados + 0.007*cellulose + 0.006*metadata + 0.005*azerbaijani + 0.005*marker + 0.004*asa
+2013-12-18 19:55:37,955 : INFO : topic #6: 0.008*benin + 0.004*thornton + 0.004*parker + 0.004*leroy + 0.004*steiner + 0.003*riga + 0.003*fish + 0.003*prefecture + 0.002*bishopric + 0.002*dog
+2013-12-18 19:55:37,970 : INFO : topic #7: 0.017*acid + 0.010*compounds + 0.010*hydrogen + 0.010*chemistry + 0.010*reaction + 0.009*oxygen + 0.009*atoms + 0.007*reactions + 0.007*atomic + 0.006*nuclear
+2013-12-18 19:55:37,984 : INFO : topic #8: 0.009*phylogeny + 0.008*cairns + 0.006*crosby + 0.006*circumscribed + 0.005*moody + 0.005*bonaparte + 0.005*alexandra + 0.004*skinner + 0.004*democrat + 0.003*stealth
+2013-12-18 19:55:37,998 : INFO : topic #9: 0.005*scotland + 0.004*football + 0.004*buildings + 0.003*naval + 0.003*americans + 0.003*scottish + 0.003*institutions + 0.003*secretary + 0.003*conservative + 0.003*genera
+2013-12-18 19:55:38,013 : INFO : topic #10: 0.022*vowel + 0.020*vowels + 0.014*consonant + 0.011*consonants + 0.008*verbs + 0.006*sardinia + 0.006*suffixes + 0.006*lexical + 0.005*carboxylic + 0.005*ipa
+2013-12-18 19:55:38,026 : INFO : topic #11: 0.010*lions + 0.007*atm + 0.006*adventist + 0.006*jerseys + 0.005*cowboys + 0.004*euthanasia + 0.004*osiris + 0.004*mustard + 0.004*erroneously + 0.004*joel
+2013-12-18 19:55:38,042 : INFO : topic #12: 0.018*blues + 0.009*algol + 0.005*hardcore + 0.004*felix + 0.004*reggae + 0.004*universities + 0.004*cunningham + 0.003*tattoo + 0.003*curb + 0.002*bolts
+2013-12-18 19:55:38,059 : INFO : topic #13: 0.004*ireland + 0.003*temple + 0.003*berlin + 0.003*democratic + 0.003*governor + 0.003*convention + 0.003*eu + 0.003*liberal + 0.003*embassy + 0.003*camp
+2013-12-18 19:55:38,078 : INFO : topic #14: 0.005*poem + 0.004*mythology + 0.004*poetry + 0.004*poems + 0.004*birds + 0.004*dog + 0.004*stories + 0.003*aristotle + 0.003*cayman + 0.003*goddess
+2013-12-18 19:55:38,098 : INFO : topic diff=0.005331, rho=0.141421
+2013-12-18 19:55:38,116 : INFO : topic #0: 0.008*asp + 0.008*psalms + 0.007*rgb + 0.007*wives + 0.006*sarcophagus + 0.006*aztec + 0.005*knuth + 0.005*psychic + 0.005*archangel + 0.004*ethernet
+2013-12-18 19:55:38,132 : INFO : topic #1: 0.019*christ + 0.017*jesus + 0.013*bible + 0.013*churches + 0.012*testament + 0.011*botswana + 0.011*epistle + 0.009*doctrine + 0.008*communion + 0.008*canon
+2013-12-18 19:55:38,149 : INFO : topic #2: 0.011*rum + 0.006*bose + 0.005*dynamical + 0.004*applet + 0.004*borealis + 0.003*rape + 0.002*concession + 0.002*estonia + 0.001*packet + 0.001*estonian
+2013-12-18 19:55:38,166 : INFO : topic #3: 0.044*px + 0.032*alfonso + 0.022*afonso + 0.020*brunei + 0.008*aragon + 0.008*blitz + 0.007*elliptic + 0.005*conjugation + 0.004*asturias + 0.004*tau
+2013-12-18 19:55:38,183 : INFO : topic #4: 0.026*cameroon + 0.025*chad + 0.021*ecuador + 0.015*census + 0.011*median + 0.010*km² + 0.008*khmer + 0.008*households + 0.007*deaths + 0.007*km
+2013-12-18 19:55:38,201 : INFO : topic #5: 0.019*azerbaijan + 0.014*baku + 0.012*samoa + 0.010*teutonic + 0.008*barbados + 0.007*cellulose + 0.006*metadata + 0.005*azerbaijani + 0.005*marker + 0.004*asa
+2013-12-18 19:55:38,218 : INFO : topic #6: 0.008*benin + 0.004*thornton + 0.004*parker + 0.004*leroy + 0.004*steiner + 0.003*riga + 0.003*fish + 0.003*prefecture + 0.002*bishopric + 0.002*dog
+2013-12-18 19:55:38,236 : INFO : topic #7: 0.017*acid + 0.010*compounds + 0.010*hydrogen + 0.010*chemistry + 0.010*reaction + 0.009*oxygen + 0.009*atoms + 0.007*reactions + 0.007*atomic + 0.006*nuclear
+2013-12-18 19:55:38,252 : INFO : topic #8: 0.009*phylogeny + 0.008*cairns + 0.006*crosby + 0.006*circumscribed + 0.005*moody + 0.005*bonaparte + 0.005*alexandra + 0.004*skinner + 0.004*democrat + 0.003*stealth
+2013-12-18 19:55:38,271 : INFO : topic #9: 0.005*scotland + 0.004*football + 0.004*buildings + 0.003*naval + 0.003*americans + 0.003*scottish + 0.003*institutions + 0.003*secretary + 0.003*conservative + 0.003*genera
+2013-12-18 19:55:38,287 : INFO : topic #10: 0.022*vowel + 0.020*vowels + 0.014*consonant + 0.011*consonants + 0.008*verbs + 0.006*sardinia + 0.006*suffixes + 0.006*lexical + 0.005*carboxylic + 0.005*ipa
+2013-12-18 19:55:38,305 : INFO : topic #11: 0.010*lions + 0.007*atm + 0.006*adventist + 0.006*jerseys + 0.005*cowboys + 0.004*euthanasia + 0.004*osiris + 0.004*mustard + 0.004*erroneously + 0.004*joel
+2013-12-18 19:55:38,322 : INFO : topic #12: 0.018*blues + 0.009*algol + 0.005*hardcore + 0.004*felix + 0.004*reggae + 0.004*universities + 0.004*cunningham + 0.003*tattoo + 0.003*curb + 0.002*bolts
+2013-12-18 19:55:38,340 : INFO : topic #13: 0.004*ireland + 0.003*temple + 0.003*berlin + 0.003*democratic + 0.003*governor + 0.003*convention + 0.003*eu + 0.003*liberal + 0.003*embassy + 0.003*camp
+2013-12-18 19:55:38,358 : INFO : topic #14: 0.005*poem + 0.004*mythology + 0.004*poetry + 0.004*poems + 0.004*birds + 0.004*dog + 0.004*stories + 0.003*aristotle + 0.003*cayman + 0.003*goddess
+2013-12-18 19:55:38,374 : INFO : topic #15: 0.026*cell + 0.021*cells + 0.012*brain + 0.011*proteins + 0.010*membrane + 0.009*grammar + 0.009*alphabet + 0.008*teeth + 0.007*cardiac + 0.007*cortex
+2013-12-18 19:55:38,391 : INFO : topic #16: 0.020*calendar + 0.009*aramaic + 0.007*gregorian + 0.007*calendars + 0.006*anno + 0.006*titus + 0.004*ravens + 0.004*az + 0.004*ante + 0.003*iso
+2013-12-18 19:55:38,406 : INFO : topic #17: 0.017*cornish + 0.010*cornwall + 0.007*angolan + 0.007*dopamine + 0.007*serotonin + 0.006*cdc + 0.006*gram + 0.006*depression + 0.005*psychosis + 0.004*depressive
+2013-12-18 19:55:38,422 : INFO : topic #18: 0.016*alcohol + 0.011*dose + 0.010*enzymes + 0.009*doses + 0.008*receptor + 0.008*hormone + 0.007*cancer + 0.007*cholesterol + 0.007*hormones + 0.007*corona
+2013-12-18 19:55:38,437 : INFO : topic #19: 0.037*apollo + 0.013*crew + 0.011*spacecraft + 0.010*mission + 0.010*astronauts + 0.010*abc + 0.009*nasa + 0.007*flight + 0.006*manned + 0.006*challenger
